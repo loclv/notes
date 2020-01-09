@@ -14,21 +14,30 @@ phần mềm quản lý task thông thường như:
 
 ```sequence
 K->Mình: nói việc muốn làm
-Note right of Mình: nếu dự án có spec rõ\nràng từ ban đầu Mình\ncheck xem việc này\ncó trong trách\nnhiệm của mình\nkhông? có làm được\nkhông?
+Note right of Mình: nếu dự án có spec rõ \n ràng từ ban đầu Mình \n check xem việc này \n có trong trách \n nhiệm của mình \n không?
+
+Mình-->K: xác nhận lại điều \n đang nghĩ nếu cần
+K-->Mình: 2 bên đều OK
+
+Note right of Mình: có làm được \n không?
 
 Mình-->Team: nếu cần thì hỏi team xem có làm được không
-Note right of Team: check xem có\nlàm được hay không
-Team-->Mình: nếu không làm được thì phải có lý do cụ thể\nVới quy tắc là không có việc gì không làm được\nchỉ có việc khó, phạm vi ảnh hưởng lớn nên\ntốn time
-Note right of Mình: tự mình suy nghĩ xem\ncó hợp lý không
-Mình-->K: xác nhận lại điều\nđang nghĩ nếu cần
+
+Note right of Team: check xem có \n làm được hay không
+Team-->Mình: nếu không làm được thì phải có lý do cụ thể \n Với quy tắc là không có việc gì không làm được \n chỉ có việc khó, phạm vi ảnh hưởng lớn nên \n tốn time
+Note right of Mình: tự mình suy nghĩ \n xem lý do có \n hợp lý không? \n vì trước khi giao \n cho mình, K đã phải \n suy nghĩ rồi
+Mình-->K: xác nhận lại điều \n đang nghĩ nếu cần
 K-->Mình: 2 bên đều OK
+
+Note right of Mình: nếu K đồng ý \n không làm nữa thì \n dừng ở đây
+
 Note right of Mình: tạo task cho K
 
-Note right of Mình: chọn người phụ\ntrách task là Mình
+Note right of Mình: chọn người phụ \n trách task là Mình
 
-Mình->Team: truyền đạt cho team\n(tạo task bên team)
+Mình->Team: truyền đạt cho team \n (tạo task bên team)
 
-Note right of Mình: chuyển trạng thái\ntask từ `open`\nsang `progress` nếu\nđã truyền đạt với\nteam
+Note right of Mình: chuyển trạng thái \n task từ `open` \n sang `progress`
 
 Note left of K: K test trên stg
 ```
@@ -37,7 +46,7 @@ Note left of K: K test trên stg
 
 ```sequence
 Mình->K: Says Hello
-Note right of K: K thinks\nabout it
+Note right of K: K thinks \n about it
 K->Mình: How are you?
 Mình->K: I am good thanks!
 ```
