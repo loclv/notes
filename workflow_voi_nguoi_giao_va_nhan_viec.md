@@ -64,7 +64,7 @@ Mình->K: gửi yêu cầu xác \n nhận task đã xong \n trên chat-tool
 
 K-->Mình: đưa feedback và lặp \n lại những bước trên \n nếu cần
 
-Note over K: K test trên stg
+Note over K: test trên stg
 
 Note over K: check task OK
 Note over K: chuyển trạng thái \n task từ `resolved` \n sang `close`
