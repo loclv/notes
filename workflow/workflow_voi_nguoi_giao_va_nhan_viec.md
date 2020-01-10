@@ -1,29 +1,12 @@
 # How to view this document
 
-## preview
-
-https://medium.com/technical-writing-is-easy/diagrams-in-documentation-markdown-guide-4e78419e8d2f
-
-https://shd101wyy.github.io/markdown-preview-enhanced/#/
-
-## from this resource to svg
-https://bramp.github.io/js-sequence-diagrams/
-
-click into `Download as SVG` button
+read `../how_to_read_sequence_diagram.md`
 
 ---
 
 # workflow
 
-workflow khi trao đổi với *Khách hàng/PM* - ký hiệu là `K`
-
-có thể áp dụng cho *BrSE, technical leader, team leader* - ký hiệu là `Mình`
-
-phần mềm quản lý task thông thường như:
-- backlog
-- jira
-- trello
-- ...
+read `./workflow_voi_nguoi_giao_va_nhan_viec_common.md`
 
 ## nhận yêu cầu từ khách hàng
 
@@ -68,10 +51,4 @@ Note over K: test trên stg
 
 Note over K: check task OK
 Note over K: chuyển trạng thái \n task từ `resolved` \n sang `close`
-
-```
-
-## đưa ra ý tưởng
-
-```sequence
 ```
