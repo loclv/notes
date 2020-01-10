@@ -11,6 +11,9 @@ read `./workflow_voi_nguoi_giao_va_nhan_viec_common.md`
 ## nhận yêu cầu từ khách hàng
 
 ```sequence
+participant K
+participant Mình
+participant Team
 K->Mình: nói việc muốn làm
 Note over Mình: nếu dự án có spec rõ \n ràng từ ban đầu Mình \n check xem việc này \n có trong trách \n nhiệm của mình \n không?
 
