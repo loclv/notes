@@ -11,11 +11,15 @@ read `./workflow_voi_nguoi_giao_va_nhan_viec_common.md`
 ## đưa ra ý tưởng
 
 ```sequence
+participant K
+participant Mình
+participant Team
 Note right of K: trong quá trình \n làm dự án
 Note over Mình: tự test tìm vấn đề
 Note over Team: nhận ra vấn đề
 
-Mình->Team: hỏi xem có thấy \n vấn đề nào không?
+Mình->Team: hỏi xem có \n vấn đề nào không?
+Mình->K: hỏi xem có \n vấn đề nào không?
 
 Team->Mình: đưa ra vấn đề
 
@@ -26,7 +30,7 @@ K->Mình: 2 bên đều đồng ý
 
 Note over Mình: tìm giải pháp
 Mình->K: hỏi có giải pháp \n nào không
-Mình->team: hỏi có giải pháp \n nào không
+Mình->Team: hỏi có giải pháp \n nào không
 
 Note over Mình: giải pháp có làm được \n không?
 
