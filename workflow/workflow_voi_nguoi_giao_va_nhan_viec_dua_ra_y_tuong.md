@@ -42,7 +42,7 @@ K->Mình: 2 bên đều OK
 
 Mình-->Team: nếu cần thì hỏi team xem có làm được không
 
-Note right of Team: check xem có \n làm được hay không
+Note over Team: check xem có \n làm được hay không
 
 Team-->Mình: nếu không làm được thì \n phải có lý do cụ thể \n Với quy tắc là không có việc gì không làm được \n chỉ có việc khó, phạm vi ảnh hưởng lớn nên \n tốn time
 

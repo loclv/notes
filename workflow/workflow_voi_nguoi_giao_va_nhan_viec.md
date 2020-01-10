@@ -24,10 +24,14 @@ Note over Mình: có làm được \n không?
 
 Mình-->Team: nếu cần thì hỏi team xem có làm được không
 
-Note right of Team: check xem có \n làm được hay không
-Team-->Mình: nếu không làm được thì phải có lý do cụ thể \n Với quy tắc là không có việc gì không làm được \n chỉ có việc khó, phạm vi ảnh hưởng lớn nên \n tốn time
+Note over Team: check xem có \n làm được hay không
+
+Team-->Mình: nếu không làm được \n thì phải có lý do cụ thể \n Với quy tắc là không có việc gì không làm được \n chỉ có việc khó, phạm vi ảnh hưởng lớn nên \n tốn time
+
 Note over Mình: tự mình suy nghĩ \n xem lý do có \n hợp lý không? \n vì trước khi giao \n cho mình, K đã phải \n suy nghĩ rồi
+
 Mình-->K: xác nhận lại điều \n đang nghĩ
+
 K-->Mình: 2 bên đều OK
 
 Note over Mình: nếu K đồng ý \n không làm nữa thì \n dừng ở đây
