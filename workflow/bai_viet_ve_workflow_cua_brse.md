@@ -1,4 +1,4 @@
-# Đôi điều suy nghĩ về workflow khi làm BrSE
+# workflow khi làm BrSE
 
 ## Mở đầu
 
@@ -46,3 +46,7 @@ các thông tin chung:
 
 ### workflow đưa ra ý tưởng
 `./output/workflow_voi_nguoi_giao_va_nhan_viec_dua_ra_y_tuong.md`
+
+# tham khảo
+
+- tham khảo 1 số từ workflow của DienDD(https://kipalog.com/users/DangDien/mypage)
