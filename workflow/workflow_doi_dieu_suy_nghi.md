@@ -4,11 +4,9 @@
 
 Về đặc thù của `BrSE` bạn có thể `google` để biết thêm.
 
-Qua dự án đầu tiên làm BrSE ăn chửi và ăn hành thì đến giờ mình vẫn chưa dám múa rìu qua mắt thợ.
+Với kinh nghiệm làm `BrSE` dự án đầu tiên ăn hành tỏi thì bài viết chỉ mang tính tự thuật và mang cho người ngoài ngành cái nhìn rõ hơn 1 chút về nghề này.
 
-Chính vì thế bài viết chỉ mang tính tự thuật và mang cho người ngoài ngành cái nhìn rõ hơn 1 chút về nghề này.
-
-Còn đối với các bạn mới làm BrSE thì theo mình nghĩ các bạn nên tự trải nghiệm.
+Còn đối với các bạn mới làm `BrSE` thì theo mình nghĩ các bạn nên tự mình trải nghiệm.
 
 ## workflow là gì
 
@@ -33,7 +31,9 @@ workflow cũng có tính tương đối đúng sai và khi sử dụng không n�
 
 tuy nhiên:
 - workflow nhiều khi quá cứng nhắc, ví dụ như vụ các cán bộ xả nước lũ ở đập thuỷ điện là `đúng quy trình`.
+  - nguyên nhân: workflow khó lường hết các case, đặc biệt là các case ngoại lệ
 - với các dự án không phù hợp mà cố áp dụng thì thành ra mất rất nhiều thời gian
+  - nguyên nhân: nhiều bước thừa
 
 
 ## Nội dung chính - workflow khi làm BrSE
