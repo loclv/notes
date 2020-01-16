@@ -1,4 +1,4 @@
-# workflow khi làm BrSE
+# Workflow khi làm BrSE
 
 ## Mở đầu
 
@@ -10,68 +10,71 @@ Còn đối với các bạn mới làm `BrSE` thì theo mình nghĩ các bạn 
 
 Bài viết đưa ra `workflow` của cá nhân mình, có thể chưa phù hợp, chưa đúng thì mong các bạn comment để mình học hỏi thêm.
 
-## workflow là gì
+## Workflow là gì
 
 Dịch sang tiếng Việt thì là `luồng công việc` hoặc `quy trình`.
 
 Các ví dụ về `luồng công việc` như:
-- các bước để tán gái
-- các bước để hút thuốc lào đúng cách
-- các bộ phận logic trong 1 cái máy
-- các quy trình khi sử dụng git với team
+- Các bước để tán gái.
+- Các bước để hút thuốc lào đúng cách.
+- Các bộ phận logic trong 1 cái máy.
+- Các quy trình khi sử dụng git với team.
 - ...
 
-workflow cũng có tính tương đối đúng sai và khi sử dụng không nên quá cứng nhắc.
+Workflow cũng có tính tương đối đúng sai và khi sử dụng không nên quá cứng nhắc.
 
 
-## workflow để làm gì
+## Workflow để làm gì
 
-- tránh gây ra những thiệt hại, sai sót không đáng có khi làm việc
-- giúp quá trình diễn ra dễ tự động hoá
-- điều tra sai sót 1 cách dễ dàng (dễ quy trách nhiệm :D)
-- công việc nhanh và hiệu quả, dễ quản lý
+- Tránh gây ra những thiệt hại, sai sót không đáng có khi làm việc.
+- Giúp quá trình diễn ra dễ tự động hoá.
+- Điều tra sai sót 1 cách dễ dàng (dễ quy trách nhiệm :D).
+- Công việc nhanh và hiệu quả, dễ quản lý.
 
-tuy nhiên:
-- workflow nhiều khi quá cứng nhắc, ví dụ như vụ xả nước lũ ở đập thuỷ điện Bản Vẽ là `đúng quy trình`.
-  - nguyên nhân: workflow khó lường hết các case, đặc biệt là các case ngoại lệ
-- với các dự án không phù hợp mà cố áp dụng thì thành ra mất rất nhiều thời gian
-  - nguyên nhân: nhiều bước thừa
+Tuy nhiên:
+- Workflow nhiều khi quá cứng nhắc, ví dụ như vụ xả nước lũ ở đập thuỷ điện Bản Vẽ là `đúng quy trình`.
+  - Nguyên nhân: workflow khó lường hết các case, đặc biệt là các case ngoại lệ.
+- Với các dự án không phù hợp mà cố áp dụng thì thành ra mất rất nhiều thời gian.
+  - Nguyên nhân: nhiều bước thừa.
 
 
 ## Nội dung chính - workflow khi làm BrSE
 
-### các thông tin chung - thuật ngữ
-workflow khi trao đổi với *Khách hàng/PM* - ký hiệu là `K`
+### Các thông tin chung - thuật ngữ
 
-có thể áp dụng cho *BrSE, technical leader, team leader* - ký hiệu là `Mình`
+Workflow khi trao đổi với *Khách hàng/PM* - ký hiệu là `K`.
 
-phần mềm quản lý task thông thường như:
-- backlog
-- jira
-- trello
+Có thể áp dụng cho *BrSE, technical leader, team leader* - ký hiệu là `Mình`.
+
+Phần mềm quản lý task thông thường như:
+- Backlog
+- Jira
+- Trello
 - ...
 
-`stg` là môi trường staging (cho bạn nào chưa biết thì có thể đọc ở [đây](https://toidicodedao.com/2019/07/02/environment-trong-lap-trinh/))
+Thuật ngữ về trạng thái task:
 
-`open` là trạng thái task mới được khởi tạo - đang trong quá trình trao đổi QA, phân chia công việc hoặc tạm dừng
+- `Stg` là môi trường staging (cho bạn nào chưa biết thì có thể đọc ở [đây](https://toidicodedao.com/2019/07/02/environment-trong-lap-trinh/))
 
-`progress` là trạng thái task đang làm
+- `Open` là trạng thái task mới được khởi tạo - đang trong quá trình trao đổi QA, phân chia công việc hoặc tạm dừng
 
-`resolved` là trạng thái task đã giải quyết được rồi - đã coding xong, tự mình test thử ok, tự mình cho là hợp lý, tuy nhiên chưa được người khác kiểm trứng, đánh giá
+- `Progress` là trạng thái task đang làm
 
-`close` là trạng thái task không còn được quan tâm nữa - có thể đã xong hẳn (test, release ở stg xong), có thể là không làm nữa
+- `Resolved` là trạng thái task đã giải quyết được rồi - đã coding xong, tự mình test thử ok, tự mình cho là hợp lý, tuy nhiên chưa được người khác kiểm trứng, đánh giá
 
-ngoài ra trạng thái task còn có thể có thể được custom và có `workflow` khác
+- `Close` là trạng thái task không còn được quan tâm nữa - có thể đã xong hẳn (test, release ở stg xong), có thể là không làm nữa
 
-### workflow nhận yêu cầu từ khách hàng
+- Ngoài ra trạng thái task còn có thể có thể được custom và có `workflow` khác
+
+### Workflow nhận yêu cầu từ khách hàng
 
 ![](./output/workflow_voi_nguoi_giao_va_nhan_viec.svg)
 
-### workflow đưa ra ý tưởng
+### Workflow đưa ra ý tưởng
 
 ![](./output/workflow_voi_nguoi_giao_va_nhan_viec_dua_ra_y_tuong.svg)
 
-# tham khảo
+# Tham khảo
 
-- tham khảo 1 số từ workflow của DienDD(https://kipalog.com/users/DangDien/mypage)
-- cách tạo biểu đồ sequence diagram (https://bramp.github.io/js-sequence-diagrams/)
+- Tham khảo 1 số từ workflow của DienDD(https://kipalog.com/users/DangDien/mypage)
+- Cách tạo biểu đồ sequence diagram (https://bramp.github.io/js-sequence-diagrams/)
