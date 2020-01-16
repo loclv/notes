@@ -40,7 +40,7 @@ tuy nhiên:
 
 ## Nội dung chính - workflow khi làm BrSE
 
-### các thông tin chung
+### các thông tin chung - thuật ngữ
 workflow khi trao đổi với *Khách hàng/PM* - ký hiệu là `K`
 
 có thể áp dụng cho *BrSE, technical leader, team leader* - ký hiệu là `Mình`
@@ -50,6 +50,18 @@ phần mềm quản lý task thông thường như:
 - jira
 - trello
 - ...
+
+`stg` là môi trường staging (cho bạn nào chưa biết thì có thể đọc ở [đây](https://toidicodedao.com/2019/07/02/environment-trong-lap-trinh/))
+
+`open` là trạng thái task mới được khởi tạo - đang trong quá trình trao đổi QA, phân chia công việc hoặc tạm dừng
+
+`progress` là trạng thái task đang làm
+
+`resolved` là trạng thái task đã giải quyết được rồi - đã coding xong, tự mình test thử ok, tự mình cho là hợp lý, tuy nhiên chưa được người khác kiểm trứng, đánh giá
+
+`close` là trạng thái task không còn được quan tâm nữa - có thể đã xong hẳn (test, release ở stg xong), có thể là không làm nữa
+
+ngoài ra trạng thái task còn có thể có thể được custom và có `workflow` khác
 
 ### workflow nhận yêu cầu từ khách hàng
 
@@ -62,4 +74,4 @@ phần mềm quản lý task thông thường như:
 # tham khảo
 
 - tham khảo 1 số từ workflow của DienDD(https://kipalog.com/users/DangDien/mypage)
-- - biểu đồ sequence diagram (https://bramp.github.io/js-sequence-diagrams/)
+- biểu đồ sequence diagram (https://bramp.github.io/js-sequence-diagrams/)
