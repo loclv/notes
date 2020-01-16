@@ -26,10 +26,13 @@ Workflow cũng có tính tương đối đúng sai và khi sử dụng không n�
 
 ## Workflow để làm gì
 
-- Tránh gây ra những thiệt hại, sai sót không đáng có khi làm việc.
+- Tránh gây ra những thiệt hại, sai sót không đáng có khi làm việc. Ví dụ như:
+  - Tránh những lý do như `ôi quên mất!`, `xoá nhầm data mà không backup rồi`.
+  - Khi có sự cố, những ghi chép trên task, chat tool sẽ giống như sổ ghi log, giúp minh bạch hoá công việc đã làm.
 - Giúp quá trình diễn ra dễ tự động hoá.
 - Điều tra sai sót 1 cách dễ dàng (dễ quy trách nhiệm :D).
 - Công việc nhanh và hiệu quả, dễ quản lý.
+  - Khi có quá nhiều task thì không bị loạn.
 
 Tuy nhiên:
 - Workflow nhiều khi quá cứng nhắc, ví dụ như vụ xả nước lũ ở đập thuỷ điện Bản Vẽ là `đúng quy trình`.
@@ -76,5 +79,5 @@ Thuật ngữ về trạng thái task:
 
 # Tham khảo
 
-- Tham khảo 1 số từ workflow của DienDD(https://kipalog.com/users/DangDien/mypage)
-- Cách tạo biểu đồ sequence diagram (https://bramp.github.io/js-sequence-diagrams/)
+- Tham khảo 1 số từ workflow của DienDD(https://kipalog.com/users/DangDien/mypage).
+- Cách tạo biểu đồ sequence diagram (https://bramp.github.io/js-sequence-diagrams/).
