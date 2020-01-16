@@ -24,7 +24,7 @@ workflow cũng có tính tương đối đúng sai và khi sử dụng không n�
 
 ## workflow để làm gì
 
-- tránh gây ra những thiệt hại không đáng có khi làm việc
+- tránh gây ra những thiệt hại, sai sót không đáng có khi làm việc
 - giúp quá trình diễn ra dễ tự động hoá
 - điều tra sai sót 1 cách dễ dàng (dễ quy trách nhiệm :D)
 - công việc nhanh và hiệu quả, dễ quản lý
