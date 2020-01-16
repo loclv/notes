@@ -30,7 +30,7 @@ workflow cũng có tính tương đối đúng sai và khi sử dụng không n�
 - công việc nhanh và hiệu quả, dễ quản lý
 
 tuy nhiên:
-- workflow nhiều khi quá cứng nhắc, ví dụ như vụ các cán bộ xả nước lũ ở đập thuỷ điện là `đúng quy trình`.
+- workflow nhiều khi quá cứng nhắc, ví dụ như vụ xả nước lũ ở đập thuỷ điện Bản Vẽ là `đúng quy trình`.
   - nguyên nhân: workflow khó lường hết các case, đặc biệt là các case ngoại lệ
 - với các dự án không phù hợp mà cố áp dụng thì thành ra mất rất nhiều thời gian
   - nguyên nhân: nhiều bước thừa
