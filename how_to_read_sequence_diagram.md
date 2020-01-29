@@ -4,6 +4,7 @@
 
 https://medium.com/technical-writing-is-easy/diagrams-in-documentation-markdown-guide-4e78419e8d2f
 
+công cụ viết dạng plugin của editer:
 https://shd101wyy.github.io/markdown-preview-enhanced/#/
 
 ## from this resource to svg
