@@ -34,9 +34,15 @@ Trên chuyến bay này, hạng thương gia chỉ khác với hàng ghế thư�
 
 ![](6.jpg)
 
+Lúc hạ cánh
+
 ![](7.jpg)
 
+Lúc hạ cánh
+
 ![](8.jpg)
+
+Lúc hạ cánh
 
 Người dẫn đoàn hỏi "Bạn có phải đi theo đoàn FPT không?". Tôi thì nghĩ mình không phải công ty này nên đi theo đoàn số 2. Đến nửa đường đi về phía doanh trại Hải Phòng, tôi mới bắt chuyện với người ngồi cạnh thì mới biết đoàn mà mình đang đi cùng chẳng ai mất phí cách ly cả. Tức là đoàn mà tôi cần đi là đoàn FPT cơ. Cũng có lẽ người phụ trách đoàn này là thuộc công ty FPT nên họ gọi luôn như vậy. Tôi phải tới doanh trại quân đội ở Hải Phòng để lấy hành lý rồi mới quay lại. Tới doanh lúc 12h đêm, các anh bộ đội phun khử khuẩn cả xe đưa đón và làm thủ tục xong cho 136 người, sau đó hành lý mới được dỡ xuống. Vấn đề là tôi không biết hành lý mình nằm ở đâu trong đống hành lý được chuyên trở bằng 2 xe tải quân sự cỡ lớn. Chỉ còn cách giúp các chú bộ đội thật nhanh dỡ hành lý để lấy đồ trong khi chiếc xe 32 đến đón tôi đang chờ đợi. Đi cùng xe tới từ khách sạn là 1 cậu đưa nhầm hành lý lên xe quân sự, cậu ta tới để lấy hành lý mình mình. Cậu ta cũng giúp 1 tay trong việc dỡ đồ. Tìm được hành lý cũng là lúc 3 giờ sáng, cả chiếc xe 32 chỗ chở 2 người quay về khách sạn tận thành phố Hạ Long. Do phải đảm bảo cách ly và hạn chế tiếp xúc gần, chiếc xe đưa đón hành khách được tái sử dụng chứ không phải là 1 chiếc taxi thông thường. Đến nửa đường, cậu đi cùng chợt nhớ ra để quên điện thoại trên thùng xe quân sự. Cậu ta muốn quay lại Hải Phòng lúc 3 giờ sáng. Cũng may là cậu ta chịu nghe tôi, lấy điện thoại bằng cách khác sau. Cuối cùng cũng về tới khách sạn khoảng 3h 30 sáng.
 
