@@ -1,4 +1,4 @@
-# Hồi ký Cách Ly 2020
+# Hồi ký Cách Ly Covid 2020 - bản không che và thêm ảnh đẹp
 
 Năm 2020, tháng 8, ngày 27.
 
